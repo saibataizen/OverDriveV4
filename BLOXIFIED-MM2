@@ -1,6 +1,6 @@
 local function s1() 
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/crJPD2Dqs2/0", true))()
-end
+ loadstring(game:HttpGet("https://cdn.sourceb.in/bins/crJPD2Dqs2/0", true))()
+end 
 local function s2() 
     loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()
 end 
